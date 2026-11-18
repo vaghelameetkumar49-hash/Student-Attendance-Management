@@ -1,0 +1,11 @@
+{
+  "name": "Smart Attendance Pro",
+  "short_name": "Attendance Pro",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#101b3d",
+  "description": "Professional student attendance management app",
+  "icons": []
+}
